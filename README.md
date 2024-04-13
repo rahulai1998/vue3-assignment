@@ -2,7 +2,7 @@
 
 ## Vue3 Vite App
 
-This Vue3 Vite App.
+
 
 ## Recommended IDE Setup
 
