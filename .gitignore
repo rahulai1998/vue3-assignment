@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# Distribution directory
+dist/
+
+# Package-lock file
+package-lock.json
+
+# dotenv environment variables file
+.env
