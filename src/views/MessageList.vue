@@ -71,7 +71,7 @@ messageStore.$subscribe((mutation, state) => {
                             </tbody>
                             <tbody v-else>
                                 <tr class="text-gray-600">
-                                    <th colspan="12" class="font-normal py-6">Message not found</th>
+                                    <th colspan="12" class="font-normal py-6">Messages not found</th>
                                 </tr>
                             </tbody>
                         </table>
